@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Abhiram K R</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="Coding" width="400" src="
-https://github.com/abhiram002/abhiram002/assets/109401380/2d84e87d-3ff0-468d-9ef4-996d84af64dc">
+<img align="center" alt="Coding" width="400" src="   "C:\Users\hp\Downloads\web-development-6113550-5044209.gif"     ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiram002&label=Profile%20views&color=0e75b6&style=flat" alt="abhiram002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhiram002" alt="abhiram002" /></a> </p>
