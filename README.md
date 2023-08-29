@@ -1,6 +1,8 @@
 
 <h2> Hey there! I'm Abhiram.
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" height="370"/>
+<a href="https://github.com/abhiram002">
+    <img style="border-radius: 10px;" align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500" height="370"/>
+</a>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
